@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  aspnet_sample:
+    image: mcr.microsoft.com/dotnet/framework/aspnet
+    ports:
+      - 8000:80
+    volumes:
+      - .\:C:\inetpub\wwwroot

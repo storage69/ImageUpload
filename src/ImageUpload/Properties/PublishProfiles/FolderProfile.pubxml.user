@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется процессом публикации или упаковки вашего веб-проекта. Можно настроить поведение этого процесса,
+изменив этот файл MSBuild. Подробности см. на странице https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\User\Documents\Visual Studio 2013\Projects\ImageUpload2019\ImageUpload\bin\Release\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ImageUpload.dll">
+      <publishTime>07/25/2019 13:40:58</publishTime>
+    </File>
+    <File Include="bin/ImageUpload.pdb">
+      <publishTime>07/25/2019 13:40:58</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>07/24/2019 17:09:46</publishTime>
+    </File>
+    <File Include="bin/ru/System.Net.Http.Formatting.resources.dll">
+      <publishTime>07/24/2019 17:09:47</publishTime>
+    </File>
+    <File Include="bin/ru/System.Web.Http.resources.dll">
+      <publishTime>07/24/2019 17:09:47</publishTime>
+    </File>
+    <File Include="bin/ru/System.Web.Http.WebHost.resources.dll">
+      <publishTime>07/24/2019 17:09:47</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>07/24/2019 17:09:47</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>07/24/2019 17:09:47</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>07/24/2019 17:09:47</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>07/24/2019 17:09:46</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>07/25/2019 03:48:38</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/25/2019 13:40:35</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
